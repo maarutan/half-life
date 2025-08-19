@@ -1,0 +1,31 @@
+{
+    "name" : "RunPlayerMove",
+    "library" : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "pointer"
+        },
+        {
+            "type" : "Vector *"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "float"
+        },
+        {
+            "type" : "short"
+        },
+        {
+            "type" : "byte"
+        },
+        {
+            "type" : "byte"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name"      : "IndexOfEdict",
+    "library"   : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "pointer"
+        }
+    ],
+    "return":
+    {
+        "type" : "int"
+    }
+}

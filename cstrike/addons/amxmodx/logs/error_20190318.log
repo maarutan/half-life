@@ -1,0 +1,54 @@
+L 03/18/2019 - 11:47:52: Start of error session.
+L 03/18/2019 - 11:47:52: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 11:47:52: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 11:49:42: Start of error session.
+L 03/18/2019 - 11:49:42: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 11:49:42: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 11:53:50: Start of error session.
+L 03/18/2019 - 11:53:50: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 11:53:50: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:18:02: Start of error session.
+L 03/18/2019 - 12:18:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:18:02: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:33:55: Start of error session.
+L 03/18/2019 - 12:33:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:33:55: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:36:27: Start of error session.
+L 03/18/2019 - 12:36:27: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:36:27: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:46:31: Start of error session.
+L 03/18/2019 - 12:46:31: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:46:31: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:49:46: Start of error session.
+L 03/18/2019 - 12:49:46: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:49:46: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:53:37: Start of error session.
+L 03/18/2019 - 12:53:37: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:53:37: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 12:58:07: Start of error session.
+L 03/18/2019 - 12:58:07: Info (map "de_inferno") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 12:58:07: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 13:09:41: Start of error session.
+L 03/18/2019 - 13:09:41: Info (map "de_nuke") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 13:09:41: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 13:10:10: Invalid menu id 1 (was previously destroyed).
+L 03/18/2019 - 13:10:10: [AMXX] Run time error 10 (plugin "map_spawns_editor.amxx") (native "menu_destroy") - debug not enabled!
+L 03/18/2019 - 13:10:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/18/2019 - 13:19:09: Start of error session.
+L 03/18/2019 - 13:19:09: Info (map "de_train") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 13:19:09: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 13:21:38: Invalid menu id 1 (was previously destroyed).
+L 03/18/2019 - 13:21:38: [AMXX] Run time error 10 (plugin "map_spawns_editor.amxx") (native "menu_destroy") - debug not enabled!
+L 03/18/2019 - 13:21:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 03/18/2019 - 13:31:43: Start of error session.
+L 03/18/2019 - 13:31:43: Info (map "de_tuscan") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 13:31:43: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 13:54:49: Start of error session.
+L 03/18/2019 - 13:54:49: Info (map "de_tuscan") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 13:54:49: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 14:04:59: Start of error session.
+L 03/18/2019 - 14:04:59: Info (map "de_mirage") (file "addons/amxmodx/logs/error_20190318.log")
+L 03/18/2019 - 14:04:59: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/18/2019 - 14:05:56: Invalid menu id 1 (was previously destroyed).
+L 03/18/2019 - 14:05:56: [AMXX] Run time error 10 (plugin "map_spawns_editor.amxx") (native "menu_destroy") - debug not enabled!
+L 03/18/2019 - 14:05:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

@@ -1,0 +1,6 @@
+L 03/13/2019 - 15:10:30: Start of error session.
+L 03/13/2019 - 15:10:30: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190313.log")
+L 03/13/2019 - 15:10:30: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 03/13/2019 - 15:12:57: Start of error session.
+L 03/13/2019 - 15:12:57: Info (map "=vatb_training_awp") (file "addons/amxmodx/logs/error_20190313.log")
+L 03/13/2019 - 15:12:57: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")

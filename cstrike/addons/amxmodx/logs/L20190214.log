@@ -1,0 +1,106 @@
+L 02/14/2019 - 09:43:20: Error:
+L 02/14/2019 - 09:43:20: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 09:43:21: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 09:43:21: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 09:45:19: Error:
+L 02/14/2019 - 09:45:19: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 09:45:19: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 09:45:19: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 09:45:24: [admin.amxx] Login: "Scrappy CoCo<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:45:24: [admin.amxx] Login: "Yaphhh<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:45:25: [admin.amxx] Login: "uxknow<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:45:26: [admin.amxx] Login: "IGRACHISHKA<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:45:26: [admin.amxx] Login: "Mеrс<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:45:27: [admin.amxx] Login: "prox1ma<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:50: Error:
+L 02/14/2019 - 09:51:50: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 09:51:50: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 09:51:50: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 09:51:55: [admin.amxx] Login: "vadimzoredd<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:55: [admin.amxx] Login: "Jackson_<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:56: [admin.amxx] Login: "Scrappy CoCo<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:56: [admin.amxx] Login: "SASHA BELIY<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:57: [admin.amxx] Login: "panchz0r<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:51:58: [admin.amxx] Login: "ctasdasd<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:37: Error:
+L 02/14/2019 - 09:52:37: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 09:52:37: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 09:52:37: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 09:52:42: [admin.amxx] Login: "ctasdasd<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:42: [admin.amxx] Login: "VlAd0s[1g]<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:43: [admin.amxx] Login: "Jackson_<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:43: [admin.amxx] Login: "fatta<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:44: [admin.amxx] Login: "In God We Trust<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:44: [admin.amxx] Login: "ALWAYSINDUCED<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:45: [admin.amxx] Login: "jaba</3<8><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:45: [admin.amxx] Login: "MAXiMZ0REdd__<9><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:46: [admin.amxx] Login: "Yaphhh<10><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:46: [admin.amxx] Login: "ANdREYQA 777<11><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:47: [admin.amxx] Login: "vadimzoredd<12><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:47: [admin.amxx] Login: "5karpnne<13><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:48: [admin.amxx] Login: "dAnskwØw~<14><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:48: [admin.amxx] Login: "hАter<15><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:49: [admin.amxx] Login: "binx<16><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:50: [admin.amxx] Login: "subtlety<17><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:50: [admin.amxx] Login: "sleeeeeeeeeeep<18><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:51: [admin.amxx] Login: "Frag eХecutors<19><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:52:51: [admin.amxx] Login: "dontх<20><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:28: Error:
+L 02/14/2019 - 09:57:28: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 09:57:28: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 09:57:28: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 09:57:33: [admin.amxx] Login: "krAbz0r<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:33: [admin.amxx] Login: "freeze1<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:34: [admin.amxx] Login: "6am6u<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:34: [admin.amxx] Login: "vadimzoredd<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:35: [admin.amxx] Login: "thereayo<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:35: [admin.amxx] Login: "jaba</3<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:36: [admin.amxx] Login: "Judgment~<8><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:36: [admin.amxx] Login: "Jackson_<9><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:37: [admin.amxx] Login: "hАter<10><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:38: [admin.amxx] Login: "madNЕZ<11><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:38: [admin.amxx] Login: "5kverna<12><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:39: [admin.amxx] Login: "Scrappy CoCo<13><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:39: [admin.amxx] Login: "Unapprehensive<14><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:43: [admin.amxx] Login: "dAnskwØw~<15><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:44: [admin.amxx] Login: "FXtrt<16><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:45: [admin.amxx] Login: "ANdREYQA 777<17><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:45: [admin.amxx] Login: "kornilin5<18><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:46: [admin.amxx] Login: "nauH30p<19><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 09:57:46: [admin.amxx] Login: "mеgaman<20><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:01:24: Error:
+L 02/14/2019 - 10:01:24: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 10:01:24: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 10:01:24: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 10:11:24: Error:
+L 02/14/2019 - 10:11:24: [AMXX] Module is not a valid library (file "cstrike\addons\amxmodx\modules\reapi_amxx.dll")
+L 02/14/2019 - 10:11:24: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 10:11:24: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 10:11:29: [admin.amxx] Login: "Mеrс<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:11:29: [admin.amxx] Login: "Scrappy CoCo<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:11:30: [admin.amxx] Login: "ANdREYQA 777<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:11:30: [admin.amxx] Login: "fatta<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:11:31: [admin.amxx] Login: "jaba</3<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 10:11:56: [admin.amxx] Login: "GUNS N' ROSES<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:17: -------- Mapchange to =vatb_training --------
+L 02/14/2019 - 11:24:17: [AMXX] Plugin "vatb_tmr.amxx" failed to load: Module/Library "reapi" required for plugin.  Check modules.ini.
+L 02/14/2019 - 11:24:22: [admin.amxx] Login: "uxknow<2><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:23: [admin.amxx] Login: "t0x11cZ0R-<3><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:23: [admin.amxx] Login: "fatta<4><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:24: [admin.amxx] Login: "prox1ma<5><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:24: [admin.amxx] Login: "1EMMMMMMMMMM<6><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:25: [admin.amxx] Login: "prayZr<7><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:25: [admin.amxx] Login: "youaresoweak-<8><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:26: [admin.amxx] Login: "PowerpuffLuv<9><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:26: [admin.amxx] Login: "dAnskwØw~<10><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:27: [admin.amxx] Login: "gramme<11><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:27: [admin.amxx] Login: "binx<12><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:28: [admin.amxx] Login: "In God We Trust<13><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:28: [admin.amxx] Login: "onfire $ wilson<14><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:29: [admin.amxx] Login: "vadimzoredd<15><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:40: [admin.amxx] Login: "IGRACHISHKA<16><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:41: [admin.amxx] Login: "7/21 zdarova<17><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:41: [admin.amxx] Login: "krAbz0r<18><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:42: [admin.amxx] Login: "TURCHASD_-<19><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:42: [admin.amxx] Login: "Pashka Lovelas<20><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")
+L 02/14/2019 - 11:24:56: [admin.amxx] Login: "Mеrс<21><BOT><>" became an admin (account "127.0.0.1") (access "abcdefghijklmnopqrstu") (address "127.0.0.1")

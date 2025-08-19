@@ -1,0 +1,73 @@
+L 04/09/2019 - 09:40:39: Start of error session.
+L 04/09/2019 - 09:40:39: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 09:40:39: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 09:58:29: Start of error session.
+L 04/09/2019 - 09:58:29: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 09:58:29: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 10:00:03: [FUN] Item "ammo_308" failed to create
+L 04/09/2019 - 10:00:03: [AMXX] Run time error 10 (plugin "weaponmenu.amxx") (native "give_item") - debug not enabled!
+L 04/09/2019 - 10:00:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/09/2019 - 10:36:04: Start of error session.
+L 04/09/2019 - 10:36:04: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 10:36:04: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 11:13:12: Start of error session.
+L 04/09/2019 - 11:13:12: Info (map "=vatb_enarme2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 11:13:12: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 14:52:48: Start of error session.
+L 04/09/2019 - 14:52:48: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 14:52:48: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 14:55:18: Start of error session.
+L 04/09/2019 - 14:55:18: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 14:55:18: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 14:57:12: Start of error session.
+L 04/09/2019 - 14:57:12: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 14:57:12: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 14:57:24: [AMXX] Run time error 4 (plugin "vtb_wpn.amxx") - debug not enabled!
+L 04/09/2019 - 14:57:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/09/2019 - 14:57:29: [AMXX] Run time error 4 (plugin "vtb_wpn.amxx") - debug not enabled!
+L 04/09/2019 - 14:57:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/09/2019 - 14:58:02: Start of error session.
+L 04/09/2019 - 14:58:02: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 14:58:02: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 14:58:08: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 14:58:08: [AMXX] Run time error 4: index out of bounds 
+L 04/09/2019 - 14:58:08: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 44)
+L 04/09/2019 - 14:58:13: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 14:58:13: [AMXX] Run time error 4: index out of bounds 
+L 04/09/2019 - 14:58:13: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 44)
+L 04/09/2019 - 14:58:25: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 14:58:25: [AMXX] Run time error 4: index out of bounds 
+L 04/09/2019 - 14:58:25: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 44)
+L 04/09/2019 - 14:58:53: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 14:58:53: [AMXX] Run time error 4: index out of bounds 
+L 04/09/2019 - 14:58:53: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 44)
+L 04/09/2019 - 15:02:56: Start of error session.
+L 04/09/2019 - 15:02:56: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 15:02:56: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 15:03:01: Invalid menu setting: 0
+L 04/09/2019 - 15:03:01: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 15:03:01: [AMXX] Run time error 10: native error (native "menu_setprop")
+L 04/09/2019 - 15:03:01: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 48)
+L 04/09/2019 - 15:03:05: Invalid menu setting: 1
+L 04/09/2019 - 15:03:05: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 15:03:05: [AMXX] Run time error 10: native error (native "menu_setprop")
+L 04/09/2019 - 15:03:05: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 48)
+L 04/09/2019 - 15:03:15: Invalid menu setting: 2
+L 04/09/2019 - 15:03:15: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 15:03:15: [AMXX] Run time error 10: native error (native "menu_setprop")
+L 04/09/2019 - 15:03:15: [AMXX]    [0] vtb_wpn.sma::TakeWeapon (line 48)
+L 04/09/2019 - 16:10:43: Start of error session.
+L 04/09/2019 - 16:10:43: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 16:10:43: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/09/2019 - 16:10:57: [CSTRIKE] Invalid weapon id 128
+L 04/09/2019 - 16:10:57: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 16:10:57: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/09/2019 - 16:10:57: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 74)
+L 04/09/2019 - 16:11:09: [CSTRIKE] Invalid weapon id 102
+L 04/09/2019 - 16:11:09: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/09/2019 - 16:11:09: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/09/2019 - 16:11:09: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 74)
+L 04/09/2019 - 16:55:58: Start of error session.
+L 04/09/2019 - 16:55:58: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190409.log")
+L 04/09/2019 - 16:55:58: [AMXX] Plugin file open error (plugin "MenuGen.amxx")
+L 04/09/2019 - 16:55:58: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")

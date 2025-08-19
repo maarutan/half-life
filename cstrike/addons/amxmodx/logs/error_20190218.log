@@ -1,0 +1,76 @@
+L 02/18/2019 - 10:16:35: Start of error session.
+L 02/18/2019 - 10:16:35: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 10:16:35: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 10:16:38: Function "crtrans" was not found
+L 02/18/2019 - 10:16:38: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/18/2019 - 10:16:38: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/18/2019 - 11:54:41: Start of error session.
+L 02/18/2019 - 11:54:41: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 11:54:41: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 11:54:42: Function "crtrans" was not found
+L 02/18/2019 - 11:54:42: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/18/2019 - 11:54:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/18/2019 - 12:38:46: Start of error session.
+L 02/18/2019 - 12:38:46: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 12:38:46: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 12:38:46: Function "crtrans" was not found
+L 02/18/2019 - 12:38:46: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/18/2019 - 12:38:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/18/2019 - 13:29:09: Start of error session.
+L 02/18/2019 - 13:29:09: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 13:29:09: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 13:29:09: Function "crtrans" was not found
+L 02/18/2019 - 13:29:09: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/18/2019 - 13:29:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/18/2019 - 13:35:26: Start of error session.
+L 02/18/2019 - 13:35:26: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 13:35:26: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 13:35:26: Function "crtrans" was not found
+L 02/18/2019 - 13:35:26: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/18/2019 - 13:35:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/18/2019 - 14:11:33: Start of error session.
+L 02/18/2019 - 14:11:33: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 14:11:33: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 14:11:33: [AMXX] Plugin file open error (plugin "vatb_freeze.amxx")
+L 02/18/2019 - 14:11:33: [AMXX] Plugin file open error (plugin "vatb_trans.amxx")
+L 02/18/2019 - 15:01:47: Start of error session.
+L 02/18/2019 - 15:01:47: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 15:01:47: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 15:01:47: [AMXX] Plugin file open error (plugin "vatb_freeze.amxx")
+L 02/18/2019 - 15:01:47: [AMXX] Plugin file open error (plugin "vatb_trans.amxx")
+L 02/18/2019 - 15:14:15: Start of error session.
+L 02/18/2019 - 15:14:15: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 15:14:15: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 15:27:41: Start of error session.
+L 02/18/2019 - 15:27:41: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 15:27:41: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:05:27: Start of error session.
+L 02/18/2019 - 16:05:27: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:05:27: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:06:40: Start of error session.
+L 02/18/2019 - 16:06:40: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:06:40: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:08:09: Start of error session.
+L 02/18/2019 - 16:08:09: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:08:09: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:09:56: Start of error session.
+L 02/18/2019 - 16:09:56: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:09:56: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:18:55: Start of error session.
+L 02/18/2019 - 16:18:55: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:18:55: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:22:04: Start of error session.
+L 02/18/2019 - 16:22:04: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:22:04: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:37:23: Start of error session.
+L 02/18/2019 - 16:37:23: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:37:23: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:42:12: Start of error session.
+L 02/18/2019 - 16:42:12: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:42:12: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:54:59: Start of error session.
+L 02/18/2019 - 16:54:59: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:54:59: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/18/2019 - 16:56:48: Start of error session.
+L 02/18/2019 - 16:56:48: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190218.log")
+L 02/18/2019 - 16:56:48: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")

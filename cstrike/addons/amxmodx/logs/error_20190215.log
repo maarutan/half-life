@@ -1,0 +1,78 @@
+L 02/15/2019 - 09:30:29: Start of error session.
+L 02/15/2019 - 09:30:29: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 09:30:29: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 10:43:17: Start of error session.
+L 02/15/2019 - 10:43:17: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 10:43:17: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 13:29:09: Start of error session.
+L 02/15/2019 - 13:29:09: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 13:29:09: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 13:29:10: Function "crtrans" was not found
+L 02/15/2019 - 13:29:10: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 13:29:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 15:10:51: Start of error session.
+L 02/15/2019 - 15:10:51: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 15:10:51: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 15:10:52: Function "crtrans" was not found
+L 02/15/2019 - 15:10:52: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 15:10:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 15:23:13: Start of error session.
+L 02/15/2019 - 15:23:13: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 15:23:13: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 15:23:14: Function "crtrans" was not found
+L 02/15/2019 - 15:23:14: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 15:23:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 15:25:13: Start of error session.
+L 02/15/2019 - 15:25:13: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 15:25:13: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 15:25:14: Function "crtrans" was not found
+L 02/15/2019 - 15:25:14: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 15:25:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 15:42:06: Start of error session.
+L 02/15/2019 - 15:42:06: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 15:42:06: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 15:42:07: Function "crtrans" was not found
+L 02/15/2019 - 15:42:07: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 15:42:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 15:42:44: Start of error session.
+L 02/15/2019 - 15:42:44: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 15:42:44: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 15:42:44: Function "crtrans" was not found
+L 02/15/2019 - 15:42:44: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 15:42:44: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:12:12: Start of error session.
+L 02/15/2019 - 17:12:12: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:12:12: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:12:13: Function "crtrans" was not found
+L 02/15/2019 - 17:12:13: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:12:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:22:02: Start of error session.
+L 02/15/2019 - 17:22:02: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:22:02: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:22:02: Function "crtrans" was not found
+L 02/15/2019 - 17:22:02: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:22:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:22:17: Start of error session.
+L 02/15/2019 - 17:22:17: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:22:17: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:22:17: Function "crtrans" was not found
+L 02/15/2019 - 17:22:17: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:22:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:29:26: Start of error session.
+L 02/15/2019 - 17:29:26: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:29:26: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:29:26: Function "crtrans" was not found
+L 02/15/2019 - 17:29:26: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:29:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:41:37: Start of error session.
+L 02/15/2019 - 17:41:37: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:41:37: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:41:37: Function "crtrans" was not found
+L 02/15/2019 - 17:41:37: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:41:37: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/15/2019 - 17:45:18: Start of error session.
+L 02/15/2019 - 17:45:18: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190215.log")
+L 02/15/2019 - 17:45:18: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 02/15/2019 - 17:45:19: Function "crtrans" was not found
+L 02/15/2019 - 17:45:19: [AMXX] Run time error 19 (plugin "vatb_prozpric.amxx") - debug not enabled!
+L 02/15/2019 - 17:45:19: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

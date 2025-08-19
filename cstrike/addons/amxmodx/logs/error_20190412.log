@@ -1,0 +1,75 @@
+L 04/12/2019 - 14:19:26: Start of error session.
+L 04/12/2019 - 14:19:26: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:19:26: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:20:15: [CSTRIKE] Invalid weapon id 103
+L 04/12/2019 - 14:20:15: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:20:15: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:20:15: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 74)
+L 04/12/2019 - 14:22:57: Start of error session.
+L 04/12/2019 - 14:22:57: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:22:57: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:23:02: [CSTRIKE] Invalid weapon id 102
+L 04/12/2019 - 14:23:02: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:23:02: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:23:02: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:31:01: Start of error session.
+L 04/12/2019 - 14:31:01: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:31:01: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:31:07: [CSTRIKE] Invalid weapon id 105
+L 04/12/2019 - 14:31:07: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:31:07: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:31:07: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:31:16: [CSTRIKE] Invalid weapon id 112
+L 04/12/2019 - 14:31:16: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:31:16: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:31:16: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:33:32: Start of error session.
+L 04/12/2019 - 14:33:32: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:33:32: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:36:13: Start of error session.
+L 04/12/2019 - 14:36:13: Info (map "=vatb_training_awp") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:36:13: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:37:43: Start of error session.
+L 04/12/2019 - 14:37:43: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:37:43: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:47:52: Start of error session.
+L 04/12/2019 - 14:47:52: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:47:52: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:48:45: [CSTRIKE] Invalid weapon id 102
+L 04/12/2019 - 14:48:45: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:48:45: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:48:45: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:50:50: Start of error session.
+L 04/12/2019 - 14:50:50: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:50:50: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:53:33: Start of error session.
+L 04/12/2019 - 14:53:33: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:53:33: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 14:53:33: [AMXX] Plugin file open error (plugin "vatbmenu_botskin.amxx`")
+L 04/12/2019 - 14:53:41: [CSTRIKE] Invalid weapon id 119
+L 04/12/2019 - 14:53:41: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:53:41: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:53:41: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:53:54: [CSTRIKE] Invalid weapon id 102
+L 04/12/2019 - 14:53:54: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 14:53:54: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 14:53:54: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 14:59:11: Start of error session.
+L 04/12/2019 - 14:59:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 14:59:11: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 15:05:41: Start of error session.
+L 04/12/2019 - 15:05:41: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 15:05:41: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 15:05:41: [AMXX] Plugin file open error (plugin "vatbmenu_botskin.amxx`")
+L 04/12/2019 - 15:05:47: [CSTRIKE] Invalid weapon id 104
+L 04/12/2019 - 15:05:47: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 15:05:47: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 15:05:47: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)
+L 04/12/2019 - 15:33:11: Start of error session.
+L 04/12/2019 - 15:33:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20190412.log")
+L 04/12/2019 - 15:33:11: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/12/2019 - 15:33:11: [AMXX] Plugin file open error (plugin "vatbmenu_botskin.amxx`")
+L 04/12/2019 - 15:33:16: [CSTRIKE] Invalid weapon id 112
+L 04/12/2019 - 15:33:16: [AMXX] Displaying debug trace (plugin "vtb_wpn.amxx", version "0.1")
+L 04/12/2019 - 15:33:16: [AMXX] Run time error 10: native error (native "cs_set_user_bpammo")
+L 04/12/2019 - 15:33:16: [AMXX]    [0] vtb_wpn.sma::TakeWeapon_Handler (line 73)

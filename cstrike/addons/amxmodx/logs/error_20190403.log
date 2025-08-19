@@ -1,0 +1,45 @@
+L 04/03/2019 - 10:25:01: Start of error session.
+L 04/03/2019 - 10:25:01: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:25:01: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:25:43: [FUN] Item "ammo_308" failed to create
+L 04/03/2019 - 10:25:43: [AMXX] Run time error 10 (plugin "weaponmenu.amxx") (native "give_item") - debug not enabled!
+L 04/03/2019 - 10:25:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 04/03/2019 - 10:28:32: Start of error session.
+L 04/03/2019 - 10:28:32: Info (map "=vatb_enarme2") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:28:32: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:30:05: Start of error session.
+L 04/03/2019 - 10:30:05: Info (map "=vatb_enarme2") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:30:05: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:31:56: Start of error session.
+L 04/03/2019 - 10:31:56: Info (map "=vatb_enarme2") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:31:56: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:34:35: Start of error session.
+L 04/03/2019 - 10:34:35: Info (map "=vatb_runners") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:34:35: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:35:19: Start of error session.
+L 04/03/2019 - 10:35:19: Info (map "=vatb_runners") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:35:19: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 10:51:08: Start of error session.
+L 04/03/2019 - 10:51:08: Info (map "=vatb_training_awp") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 10:51:08: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 15:13:24: Start of error session.
+L 04/03/2019 - 15:13:24: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 15:13:24: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 15:21:59: Start of error session.
+L 04/03/2019 - 15:21:59: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 15:21:59: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 15:34:23: Start of error session.
+L 04/03/2019 - 15:34:23: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 15:34:23: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 15:40:54: Start of error session.
+L 04/03/2019 - 15:40:54: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 15:40:54: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 16:49:37: Start of error session.
+L 04/03/2019 - 16:49:37: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 16:49:37: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 17:06:50: Start of error session.
+L 04/03/2019 - 17:06:50: Info (map "=vatb_training") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 17:06:50: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
+L 04/03/2019 - 17:08:20: Start of error session.
+L 04/03/2019 - 17:08:20: Info (map "de_train") (file "addons/amxmodx/logs/error_20190403.log")
+L 04/03/2019 - 17:08:20: [AMXX] Plugin file open error (plugin "vlhtraining_motd.amxx")
